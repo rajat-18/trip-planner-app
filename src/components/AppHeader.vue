@@ -7,10 +7,10 @@
         Plan It
       </div>
       <nav>
-        <a href="#">Home</a>
-        <a href="#">Services</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        <a href="/">Home</a>
+        <a href="/services">Services</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
         <a href="/login" class="login-btn">Login</a> <!-- Login option added -->
       </nav>
     </div>
@@ -55,7 +55,7 @@ header {
   width: 50px; /* Adjust size of the logo image */
   height: auto; /* Maintain aspect ratio */
   margin-right: 5px;
-  margin-bottom: 7px;
+  margin-bottom: 4px;
   /* Space between the image and text */
 }
 

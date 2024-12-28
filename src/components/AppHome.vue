@@ -64,7 +64,7 @@ body {
   height: 80vh; /* 80% of the viewport height for better visibility */
   text-align: center;
   padding: 20px;
-  background: rgba(0, 0, 0, 0.5); /* Subtle overlay for better readability */
+  background: rgba(0, 0, 0, 0.2); /* Subtle overlay for better readability */
 }
 
 .hero-content h1 {

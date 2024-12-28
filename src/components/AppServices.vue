@@ -18,7 +18,7 @@
   #services {
     padding: 50px 20px;
     text-align: center;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.4);
   }
   
   h2 {

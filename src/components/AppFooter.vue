@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>&copy; 2024 Plan It. All Rights Reserved. | <a href="#">Privacy Policy</a></p>
+    <p>&copy; 2024 Plan It. All Rights Reserved. | <a href="/privacypolicy">Privacy Policy</a></p>
   </footer>
 </template>
 
